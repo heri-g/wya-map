@@ -1,0 +1,11 @@
+.myDiv {
+  height: 4em;
+  width: 50%;
+  background-color: aqua;
+  margin: 0 auto;
+}
+#myName {
+  text-align: center;
+  color: red;
+}
+
