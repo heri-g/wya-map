@@ -1,6 +1,7 @@
 # RentApp
 
-This project is meant to track food trucks in NYC.
+This project is meant to track food trucks in NYC :).
+
 
 ## Development server
 
